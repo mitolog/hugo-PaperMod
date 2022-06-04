@@ -3,3 +3,22 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+.dark .profile_logo svg {
+  fill: #FFF;
+  /* display: none; */
+  /* background: url(/logo_white_text.png) center / cover; */
+}
+
+.dark div.profile_logo {
+  /* width: 709px;
+  height: 271px; */
+  /* background-image: url(/logo_white_text.png);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+svg {
+  display: block;
+  max-width: 100%;
+}

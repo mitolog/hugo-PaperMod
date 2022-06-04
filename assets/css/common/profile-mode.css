@@ -14,9 +14,9 @@
     padding: 12px 0;
 }
 
-.profile img {
+.profile svg {
     display: inline-table;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     pointer-events: none;
 }
 
